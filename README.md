@@ -56,7 +56,7 @@ This is a simple Todo List application built with React and styled using Tailwin
 ## Running the Application
 1. **Start the development server:**
      ```bash
-      npm install
+      npm start
 
 2. **Open your browser:**
     Visit http://localhost:3000 to see the application running.
