@@ -39,7 +39,7 @@ This is a simple Todo List application built with React and styled using Tailwin
 
 1. **Clone the repository**:
    ```bash
- https://github.com/abhiroy829429/helpstir-task
+   https://github.com/abhiroy829429/helpstir-task
    cd todo-list-app
 
 2. **Install dependencies:**
